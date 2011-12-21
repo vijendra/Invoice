@@ -4,3 +4,6 @@ To generate invoice for direct one.
 == Running tests
 Minitest is used as a testing framework. Minitest is the default testing framework in Ruby 1.9. Ruby 1.8 users must install minitest gem.
 Run 'rake test' to run all unit and functional tests.
+
+== TODO
+Provide a shoes based UI and build a desktop app.
